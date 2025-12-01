@@ -282,3 +282,4 @@
                 <i class="fas fa-book-open"></i>
                 <h3>مناهج معتمدة دولياً</h3>
                 <p>مناه
+                </html>
